@@ -1,8 +1,4 @@
-From: Sudeb Mandal <mandal.sudeb.12@gmail.com>
-Date: Sun, 26 February 2023
-Subject: [PATCH] Create patch file
-
----
+--
  node_modules.zip | Bin 0 -> 109310732 bytes
  src/App.tsx      |  27 +++++++++++++++++++++------
  src/Graph.tsx    |  15 ++++++++++++---
@@ -122,4 +118,3 @@ index ec1430e..79094d5 100644
    }
  
 -- 
-2.17.2 (Apple Git-113)
