@@ -22,4 +22,4 @@ Contrubuting to the Open Source Community
 
 
 # Certificate of Completion
-![Certificate](<J.P. Morgan_virtual_internship_completion_certificate.pdf>)
+[Certificate](<https://github.com/EmAdd9/JPM-Virtual-Internship/blob/c482c05c4a882849d85c1630c46b79eabcc32455/J.P.%20Morgan_virtual_internship_completion_certificate.pdf>)
