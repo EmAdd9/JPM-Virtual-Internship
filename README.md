@@ -18,3 +18,8 @@
 ## Bonus task: Open source contribution
 Make a contribution to Perspective or other projects backlogs
 Contrubuting to the Open Source Community
+
+
+
+# Certificate of Completion
+(<https://github.com/EmAdd9/JPM-Virtual-Internship/blob/517680a2551b7621c7f45ac6152828019d529b14/J.P.%20Morgan_virtual_internship_completion_certificate.pdf>)
