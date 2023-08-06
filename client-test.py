@@ -1,8 +1,3 @@
-From: Sudeb Mandal <mandal.sudeb.12@gmail.com>
-Date: Sun, 26 February 2023
-Subject: [PATCH] Create patch file
-
----
  client3.py     | 12 ++++++++----
  client_test.py |  7 +++++--
  2 files changed, 13 insertions(+), 6 deletions(-)
@@ -74,6 +69,3 @@ index af2bf26..bc510a0 100644
 +      self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price'] + quote['top_ask']['price'])/2))
  
    """ ------------ Add more unit tests ------------ """
- 
--- 
-2.17.2 (Apple Git-113)
